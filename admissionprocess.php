@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/bootstrap-social.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <title>Admission</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-inverse navbar-toggleable-sm fixed-top shadow">
+        <div class="container">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#Navbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+           <a class="navbar-brand" href="#"><img src="images/logo.png" class="img-fluid"></a>
+              <div class="collapse navbar-collapse" id="Navbar">        
+                <ul class="navbar-nav" style="padding-left: 10px;">
+                    <li class="nav-item"><a class="nav-link" href="./index.php"><span class="fa fa-home fa-lg"></span> Home</a></li>
+                    <li class="dropdown">
+                      <a class="nav-link dropbtn"><span class="fa fa-info fa-lg"></span> About Us</a>
+                      <div class="dropdown-content">
+                         <a href="aboutus.php">Acedamics</a>
+                         <a href="faculty.php">Faculty</a>
+                         <a href="aim.php">Aim &amp; Vision</a>
+                      </div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="login.php"><span class="fa fa-sign-in fa-lg"></span> Login</a>
+                    <li class="dropdown">
+                      <a class="nav-link dropbtn  active"><span class="fa fa-group fa-lg"></span> Admission</a>
+                      <div class="dropdown-content">
+                         <a href="registration.php">Registration</a>
+                         <a href="#">Admission Process</a>
+                         <a href="feestructure.php">Fee Structure</a>
+                      </div>
+                    </li>
+                    <li class="nav-item"><a class="nav-link" href="./facilities.php"><span class="fa fa-list-alt fa-lg"></span> Facilities</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./gallery.php"><span class="fa fa-picture-o fa-lg"></span> Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./contactus.php"><span class="fa fa-address-card fa-lg"></span> Contact</a></li>
+                </ul>
+              </div>            
+        </div>
+    </nav>
+
+    <header class="jumbotron">
+        <div class="container">
+            <div class="row row-header">
+                <div class="col-12 col-sm-9 align-self-center">
+                    <h1>TAGORE PUBLIC HIGH SR. SEC. SCHOOL</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="row">
+            <ol class="col-12 breadcrumb">
+                <li class="breadcrumb-item"><a href="./index.php">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Admission</a></li>
+                <li class="breadcrumb-item active">Admission Process</li>
+            </ol>
+            <div class="col-12">
+               <h3>Admission</h3>
+               <hr>
+            </div>
+        </div>
+    </div>
+
+<div class="container">
+  <div class="row" style="margin-top: 5%">
+
+    <div class="col-md-3 hidden-sm-down">
+        <img class="img-fluid rounded" src="images/admission-open.jpg">
+        <hr>
+        <div class="card card-block" style="font-size: 80%">It is a boot camp for athletes, the theatre for actors and directors alike, the lab for all things science, the Canvas for all forms of Art, the Universe where imagination runs wild, home for a family of thousands. No... Tagore is not just a school.” </div><hr>
+        <img class="img-fluid rounded" src="images/important-notice-hi.png" height="150" width="188"/><hr>
+        <div class="card card-block" style="font-size: 80%;color: #05009C">
+             1.Rajasthan No. 1 Rajasthan No. in the Education World India School Rankings 201text-align6 consecutive fourth time.<br /> 2..ECMS ACADEMIC CREDENTIALS 2017-18<br />3.School timings w.e.f 03 July 2017 will be 07:40a.m. to 1:40p.m. for Primary (I to V) and 07:40a.m. to 02:20p.m. for Secondary (VI to XII)
+             <br /> 4.Result of Re-Totaling of SA-2 2016-17 Answer Sheets Declared<br />5.Datesheet for Class XI supplementary and IX EIOP 2016-17 Declared <br />6.Fee for the Sport/Discipline<br /> 7.Summer Holiday Homework 2017-18 <br /> 8.Excellent CBSE Board Results- 43 St4dents Scored 90% and Above in Class XII 2016-17<br />9.50 students secured CGPA 10 in X CBSE Exam<br />10.School in the Education World India School Rankings 2016 consecutive fourth time.<br /> 11.Require Special Educator<br />
+        </div>
+    </div>
+
+
+    <div class="col-12 col-md-8 offset-md-1">
+        <h3 class="headings">ADMISSION PROCEDURE</h3><hr>
+              <div class="card shadow">
+                <h3 class="card-header bg-primary">Admission details for session 2018-19</h3>
+                  <div class="card-block">
+                      <p> Tagore public high sr. sec. school ,jaipur welcomes you to class i admission process for the acedmic session 2018-19.  <br>Eligible Age: Born between 01.10.2011 and 31.03.2013 (Both the dates included) i.e. Minimum age 5 years to 6.5 years as on April 01, 2018.<br></p>
+                    <dl class="row">
+                            <dt class="col-1">1</dt>
+                            <dd class="col-11">Registration forms will be available online, only through our website.</dd>
+                            <dt class="col-1">2</dt>
+                            <dd class="col-11">You will receive an E-mail and SMS after successful submission of registration form.</dd>
+                            <dt class="col-1">3</dt>
+                            <dd class="col-11">False information / incomplete forms liable to rejection. No request for correction will be entertained.</dd>
+                    </dl>
+                    <h4>Guidelines filling the online registration form</h4>
+                    <dl class="row">
+                            <dt class="col-1">1</dt>
+                            <dd class="col-11">Read all the instructions and click on the button given at the bottom of this page.</dd>
+                            <dt class="col-1">2</dt>
+                            <dd class="col-11">Registration Form shall appear, read it and fill it carefully and properly. (Incomplete forms will not be accepted by the software).</dd>
+                            <dt class="col-1">3</dt>
+                            <dd class="col-11">The Date of birth of the child should be entered exactly as per the information mentioned in the birth certificate.</dd>
+                            <dt class="col-1">4</dt>
+                            <dd class="col-11">It is mandatory to enter all the fields which are marked in red colour.</dd>
+                            <dt class="col-1">5</dt>
+                            <dd class="col-11">Email address and Mobile Phone No. of the parents is must and it will be used by school for future correspondence.</dd>
+                    </dl>
+                  </div>
+            </div>
+
+            <hr>
+
+                <div class="card shadow">
+                <h3 class="card-header bg-primary">Documents to bring to school at the time of admission (Deposition of school fee)</h3>
+                  <div class="card-block">
+
+                        <p>1. Two recent passport size photograph of the child.<br />
+                        2. Self attested copies of birth certificate (issued by government authority) and Adhar Card of candidate (Along with original for verification)<br />
+                        3. Self attested copies of Pan Card / Adhar Card of both the parents (Along with original for verification)<br />
+                        4. Proof of Residence<br />
+                        5. Proof of Annual Income<br />
+                        6. Photocopy of Mark sheet of class last attended<br />
+                        7. Certificate of minority (if applicable)<br />
+                        8. Certificate of caste (if applicable)<br /></p>
+                  </div>
+            </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <footer class="footer" style="margin-top: 30px">
+        <div class="container">
+            <div class="row ">             
+                <div class="col-5 offset-1 col-sm-2">
+                    <h5>Links</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="./index.php" style="color: white">Home</a></li>
+                        <li><a href="./aboutus.php" style="color: white">About</a></li>
+                        <li><a href="./facilities.php" style="color: white"></a>Facilities</li>
+                        <li><a href="./contactus.php" style="color: white">Contact</a></li>
+                    </ul>
+                </div>
+
+                <div class="col-6 col-sm-5">
+                    <h5>Our Address</h5>
+                    <address class="address">
+		              TAGORE PUBLIC SCHOOL<br>
+		              Shastri Nagar Tagore Lane, Shastri Nagar Road,<br>
+		              Hazi Colony,Subhash Nagar,Jaipur<br>
+                      <i class="fa fa-phone fa-lg"></i>: 9116378333 , 9116379333<br>
+                      <i class="fa fa-fax fa-lg"></i>: +9116378333<br>
+                      <i class="fa fa-envelope fa-lg"></i>: 
+                      <a href="mailto:info@spsjaipur.com" style="color: white">info@spsjaipur.com</a>
+		            </address>
+                </div>
+
+                <div class="col col-sm-4 align-self-center">
+                    <div style="text-align:center">
+                        <a class="btn btn-social-icon btn-google-plus" href="http://google.com/+"><i class="fa fa-google-plus"></i></a>
+                        <a class="btn btn-social-icon btn-facebook" href="http://www.facebook.com/profile.php?id="><i class="fa fa-facebook"></i></a>
+                        <a class="btn btn-social-icon btn-linkedin" href="http://www.linkedin.com/in/"><i class="fa fa-linkedin"></i></a>
+                        <a class="btn btn-social-icon btn-twitter" href="http://twitter.com/"><i class="fa fa-twitter"></i></a>
+                        <a class="btn btn-social-icon btn-youtube" href="http://youtube.com/"><i class="fa fa-youtube"></i></a>
+                        <a class="btn btn-social-icon" href="mailto:gurvsxen143@gmail.com"><i class="fa fa-envelope-o"></i></a>
+                    </div>
+                </div>
+           </div>
+
+           <div class="row justify-content-center">             
+                <div class="col-auto">
+                    <p>© Copyright 2015 Ristorante Con Fusion</p>
+                </div>
+           </div>
+        </div>
+    </footer>
+
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/tether/dist/js/tether.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
